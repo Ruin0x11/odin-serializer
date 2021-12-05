@@ -6,7 +6,7 @@
     <DefineConstants>DISABLE_UNITY;CAN_EMIT;NET_CORE</DefineConstants>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 	<DocumentationFile>bin\Release Disable Unity JIT\OdinSerializer.xml</DocumentationFile>
-    <Optimize>true</Optimize>
+	<!-- <Optimize>true</Optimize> -->
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <AssemblyName>OdinSerializer</AssemblyName>
