@@ -32,7 +32,7 @@ namespace OdinSerializer
         /// <summary>
         /// Gets the logger.
         /// </summary>
-        public ILogger Logger { get { return DefaultLoggers.UnityLogger; } }
+        public ILogger Logger { get { return DefaultLoggers.DefaultLogger; } }
 
         /// <summary>
         /// Gets the editor serialization format.
